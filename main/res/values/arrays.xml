@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="years_options">
+        <item>1st Year</item>
+        <item>2nd Year</item>
+        <item>3rd Year</item>
+        <item>4th Year</item>
+    </string-array>
+
+    <string-array name="duration_array">
+        <item>Duration</item>
+        <item>Unknown</item>
+        <item>1 day</item>
+        <item>2 days</item>
+        <item>1 week</item>
+        <item>1 month</item>
+    </string-array>
+
+    <string-array name="navigation_options">
+        <item>Events</item>
+        <item>Hackathons</item>
+        <item>Internships</item>
+        <item>Workshops</item>
+        <item>Mentorships</item>
+        <item>Certification Courses</item>
+        <item>Scholarships</item>
+    </string-array>
+</resources>

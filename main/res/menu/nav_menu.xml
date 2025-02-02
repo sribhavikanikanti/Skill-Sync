@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_events"
+            android:title="All Events"/>
+
+        <item
+            android:id="@+id/nav_hackathons"
+            android:title="Hackathons"/>
+
+        <item
+            android:id="@+id/nav_internships"
+            android:title="Internships"/>
+
+
+
+        <item
+            android:id="@+id/nav_workshops"
+            android:title="Workshops"/>
+
+        <item
+            android:id="@+id/nav_mentorships"
+            android:title="Mentorships"/>
+
+        <item
+            android:id="@+id/nav_certificationCourses"
+            android:title="Certification Courses"/>
+
+        <item
+            android:id="@+id/nav_scholarships"
+            android:title="Scholarships"/>
+
+        <item
+            android:id="@+id/nav_about"
+            android:title="About Us"/>
+
+    </group>
+
+    <group>
+        <item
+            android:id="@+id/nav_history"
+            android:title="History"/>
+
+    </group>
+
+    <item
+        android:title="">
+
+        <menu>
+            <item
+                android:id="@+id/nav_logout"
+                android:title="Logout"/>
+        </menu>
+
+    </item>
+
+</menu>
